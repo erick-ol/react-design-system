@@ -4,6 +4,14 @@ module.exports = {
     './src/**/*.tsx',
   ],
   theme: {
+    fontSize : {
+      'xs': '14px',
+      'sm': '16px',
+      'md': '18px',
+      'lg': '20px',
+      'xl': '24px',
+      '2xl': '32px',
+    },
     colors: {
       'black': '#000000',
       'gray-100': '#e1e1e6',
