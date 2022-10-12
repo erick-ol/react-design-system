@@ -13,6 +13,7 @@ module.exports = {
       '2xl': '32px',
     },
     colors: {
+      'white': '#ffffff',
       'black': '#000000',
       'gray-100': '#e1e1e6',
       'gray-200': '#c4c4cc',
